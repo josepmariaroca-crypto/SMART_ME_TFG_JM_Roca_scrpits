@@ -213,8 +213,7 @@ record for the full citation in multiple formats.)
 
 ## License
 
-This code is released under the [MIT License](LICENSE) (or specify
-another license if preferred).
+This code is released under the [MIT License](LICENSE) 
 
 ## Contact
 
